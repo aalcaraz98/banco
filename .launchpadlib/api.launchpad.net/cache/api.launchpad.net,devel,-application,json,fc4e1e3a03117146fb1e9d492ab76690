@@ -1,0 +1,16 @@
+status: 200
+date: Wed, 08 Mar 2023 19:36:58 GMT
+server: Apache/2.4.18 (Ubuntu)
+content-location: index.json
+vary: negotiate,accept,Accept-Encoding
+tcn: choice
+last-modified: Wed, 08 Mar 2023 11:42:14 GMT
+etag: "8fa-5f66204f5d180-gzip"
+accept-ranges: bytes
+content-length: 2298
+content-type: application/json
+-content-encoding: gzip
+-varied-accept: application/json
+-varied-accept-encoding: gzip, deflate
+
+{"languages_collection_link": "https://api.launchpad.net/devel/+languages", "snap_bases_collection_link": "https://api.launchpad.net/devel/+snap-bases", "builders_collection_link": "https://api.launchpad.net/devel/builders", "cves_collection_link": "https://api.launchpad.net/devel/bugs/cve", "snappy_serieses_collection_link": "https://api.launchpad.net/devel/+snappy-series", "git_repositories_collection_link": "https://api.launchpad.net/devel/+git", "resource_type_link": "https://api.launchpad.net/devel/#service-root", "charm_recipes_collection_link": "https://api.launchpad.net/devel/+charm-recipes", "archives_collection_link": "https://api.launchpad.net/devel/archives", "projects_collection_link": "https://api.launchpad.net/devel/projects", "project_groups_collection_link": "https://api.launchpad.net/devel/projectgroups", "processors_collection_link": "https://api.launchpad.net/devel/+processors", "me_link": "https://api.launchpad.net/devel/people/+me", "packagesets_collection_link": "https://api.launchpad.net/devel/package-sets", "bug_trackers_collection_link": "https://api.launchpad.net/devel/bugs/bugtrackers", "people_collection_link": "https://api.launchpad.net/devel/people", "pillars_link": "https://api.launchpad.net/devel/pillars", "countries_collection_link": "https://api.launchpad.net/devel/+countries", "translation_groups_collection_link": "https://api.launchpad.net/devel/+groups", "bugs_collection_link": "https://api.launchpad.net/devel/bugs", "distributions_collection_link": "https://api.launchpad.net/devel/distros", "snaps_collection_link": "https://api.launchpad.net/devel/+snaps", "specifications_collection_link": "https://api.launchpad.net/devel/", "temporary_blobs_collection_link": "https://api.launchpad.net/devel/temporary-blobs", "branches_collection_link": "https://api.launchpad.net/devel/branches", "charm_bases_collection_link": "https://api.launchpad.net/devel/+charm-bases", "polls_collection_link": "https://api.launchpad.net/devel/+polls", "translation_import_queue_entries_collection_link": "https://api.launchpad.net/devel/+imports", "questions_collection_link": "https://api.launchpad.net/devel/questions", "services_link": "https://api.launchpad.net/devel/services", "livefses_collection_link": "https://api.launchpad.net/devel/livefses"}
